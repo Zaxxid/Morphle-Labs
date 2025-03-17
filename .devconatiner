@@ -1,7 +1,0 @@
-{
-  "customizations": {
-    "codespaces": {
-      "timeout": "240m"  // Set max timeout to 240 minutes
-    }
-  }
-}
